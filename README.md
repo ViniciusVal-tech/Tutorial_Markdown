@@ -118,7 +118,7 @@ Uma simples lista para marcar se está completo ou não. O uso é muito eficient
 
 `exemplo:`
 
-[Sephora](https://www.sephora.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=institucional&gad_source=1&gclid=EAIaIQobChMI9uPrp7K_iwMVfzatBh279xVzEAAYASAAEgKx9vD_BwE)
+![Sephora](https://www.sephora.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=institucional&gad_source=1&gclid=EAIaIQobChMI9uPrp7K_iwMVfzatBh279xVzEAAYASAAEgKx9vD_BwE)
 
 <p style="text-align:center">LINK COM REFERÊNCIA</p>
 
