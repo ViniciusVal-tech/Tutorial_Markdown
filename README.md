@@ -118,7 +118,8 @@ Uma simples lista para marcar se está completo ou não. O uso é muito eficient
 
 `exemplo:`
 
-![Sephora](https://www.sephora.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=institucional&gad_source=1&gclid=EAIaIQobChMI9uPrp7K_iwMVfzatBh279xVzEAAYASAAEgKx9vD_BwE)
+[Sephora](https://www.sephora.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=institucional&gad_source=1&gclid=EAIaIQobChMI9uPrp7K_iwMVfzatBh279xVzEAAYASAAEgKx9vD_BwE)
+
 
 <p style="text-align:center">LINK COM REFERÊNCIA</p>
 
@@ -137,7 +138,7 @@ Uma simples lista para marcar se está completo ou não. O uso é muito eficient
 ![Texto alternativo] (caminho/para/imagem.jpg) 
 
 `exemplo:`  
-![Sephora](Imagens\sephora.png)
+![Sephora](Imagens/sephora.png)
 
 <p style="text-align:center">IMAGEM DA INTERNET</p>
 
@@ -292,39 +293,39 @@ Para criar um repositório clicamos em "New" decidimos um nome para o repositór
 
 ### Criando um repositório
 
-![Criação](Imagens\Criando-tudo.png)
+![Criação](Imagens/Criando-tudo.png)
 
 Clicamos no botão ![New](https://img.shields.io/badge/New-COR?style=ESTILO)
 
 ---
-![Nome-Public](Imagens\Nome-Repositorio.png)
+![Nome-Public](Imagens/Nome-Repositorio.png)
 
 > Colocamos o nome do novo repositório;
 > Descrição é opcional;
 > Público: Visível para toda plataforma GitHub.
 
 ---
-![Readme](Imagens\Readme.png)
+![Readme](Imagens/Readme.png)
 
 Adicionamos um `ReadmeFile`, para poder adicionar instruções, descrição e especificação.
 Assim podemos clicar no ![Createrepository](https://img.shields.io/badge/Create-repository-COR?style=ESTILO)
 
 ---
-![Depois](Imagens\Depoisss.png)
+![Depois](Imagens/Depoisss.png)
 > Entrar no arquivo README
 
 ---
-![Dentro](Imagens\EditarOMain.png)
+![Dentro](Imagens/EditarOMain.png)
 > Editar e então colar seu código
 
 ### Enviando o arquivo Markdown
 ---
-![Dentro](Imagens\Voila.png)
+![Dentro](Imagens/Voila.png)
 
 > Aqui está o modo code
 
 ---
-![Dentro](Imagens\committttt.png)
+![Dentro](Imagens/committttt.png)
 
 Modo preview, mostrando o resultado pronto para um
 ![Committ](https://img.shields.io/badge/Comitt-Changes-COR?style=ESTILO)
